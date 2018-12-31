@@ -3,6 +3,7 @@
     "displayName": "Horcrux Theme",
     "description": "A dark theme inspired by Solarized",
     "publisher": "witalewski",
+    "repository": "https://github.com/witalewski/horcrux-theme.git",
     "version": "0.0.2",
     "engines": {
         "vscode": "^1.30.0"
