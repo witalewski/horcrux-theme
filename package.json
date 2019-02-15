@@ -4,7 +4,7 @@
     "description": "A dark theme inspired by Solarized",
     "publisher": "witalewski",
     "repository": "https://github.com/witalewski/horcrux-theme.git",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.30.0"
     },
@@ -16,7 +16,7 @@
             {
                 "label": "Horcrux",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Horcrux-color-theme.json"
+                "path": "./horcrux-theme/themes/Horcrux-color-theme.json"
             }
         ]
     }
